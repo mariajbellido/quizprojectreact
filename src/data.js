@@ -25,7 +25,7 @@ const data = [
         incorrectAnswers: [
             "too many",
             "too much",
-            "enough"
+            "quite"
         ],
         correctAnswer: "enough"
     },
@@ -67,7 +67,7 @@ const data = [
             "were a lot",
             "was lots of"
         ],
-        correctAnswer: "were a lot"
+        correctAnswer: "were a lot of"
     },
 
     {
@@ -91,7 +91,7 @@ const data = [
     },
 
     {
-        question: "How ... are you going to give Martha for her work",
+        question: "How ... are you going to give Martha for her work?",
         incorrectAnswers: [
             "-",
             "many",
